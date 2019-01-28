@@ -19,7 +19,7 @@ public class Rollingdivision {
         int a =chin.nextInt();
         int b =chin.nextInt();
         int c =gcd(a,b);
-        System.out.println("最小公倍数："+a*b/c+"\n最大公约数："+c);
+        System.out.println("最小公倍数："+a*b/c+"\n最大公约数："+c);////最小公倍数等于两数之积除以其最大公约数
     }
 
 }
