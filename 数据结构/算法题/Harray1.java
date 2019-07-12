@@ -1,7 +1,3 @@
-
-
-
-
 public class Harray1 {
 
     private int[] array;
