@@ -38,6 +38,7 @@ public class Harray1 {
 
         public static void main(String[] args)throw Exception{
 
+            
         }
     }
 }
